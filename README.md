@@ -1,1 +1,1 @@
-# ncftp2
+Blockchain directory
